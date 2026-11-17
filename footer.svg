@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="900" height="150" viewBox="0 0 900 150" role="img" aria-label="Thank you for reading.">
+<title>Thank you for reading.</title>
+<rect width="900" height="150" fill="#4E1521"/>
+<line x1="40" y1="22" x2="860" y2="22" stroke="#B08D57" stroke-width="1.2"/>
+<line x1="40" y1="26" x2="860" y2="26" stroke="#B08D57" stroke-width="0.5"/>
+<text x="450" y="74" text-anchor="middle" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Book Antiqua', 'Times New Roman', serif" font-style="italic" font-size="27" fill="#F7F1E3">Thank you for reading.</text>
+<line x1="390" y1="94" x2="510" y2="94" stroke="#B08D57" stroke-width="0.8"/>
+<path d="M450,90 L454,94 L450,98 L446,94 Z" fill="#B08D57"/>
+<text x="450" y="122" text-anchor="middle" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Book Antiqua', 'Times New Roman', serif" font-size="12" letter-spacing="3.5" fill="#CDB07A">THANUSHIKA MOHANRAJ  ·  DEVELOPMENT  ·  POLICY  ·  CLIMATE</text>
+<line x1="40" y1="138" x2="860" y2="138" stroke="#B08D57" stroke-width="0.5"/>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="900" height="150" viewBox="0 0 900 150" role="img" aria-label="Section VI: Methodology, Honestly">
+<title>Section VI: Methodology, Honestly</title>
+<style></style>
+<rect width="900" height="150" fill="#F7F1E3"/>
+<line x1="40" y1="6" x2="860" y2="6" stroke="#2E2C2A" stroke-width="0.6" opacity="0.35"/>
+<line x1="40" y1="144" x2="860" y2="144" stroke="#2E2C2A" stroke-width="0.6" opacity="0.35"/>
+<g class="in">
+  <line x1="365" y1="35" x2="420" y2="35" stroke="#B08D57" stroke-width="1"/>
+  <line x1="480" y1="35" x2="535" y2="35" stroke="#B08D57" stroke-width="1"/>
+  <text x="450" y="40" text-anchor="middle" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Book Antiqua', 'Times New Roman', serif" font-size="15" letter-spacing="3" fill="#B08D57">VI</text>
+  <text x="450" y="87" text-anchor="middle" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Book Antiqua', 'Times New Roman', serif" font-size="40" fill="#6B1E2E">Methodology, Honestly</text>
+  <text x="450" y="120" text-anchor="middle" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Book Antiqua', 'Times New Roman', serif" font-style="italic" font-size="18" fill="#5A5650">Where my research time actually goes</text>
+</g>
+</svg>

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="900" height="520" viewBox="0 0 900 520" role="img" aria-label="A tongue-in-cheek chart of how my research time is spent: 50% deciding what to research; 30% reading, and re-reading; 12% actually writing it; 8% coffee. Sample size: one.">
+<title>A tongue-in-cheek chart of how my research time is spent: 50% deciding what to research; 30% reading, and re-reading; 12% actually writing it; 8% coffee. Sample size: one.</title>
+<rect width="900" height="520" fill="#F7F1E3"/>
+<text x="60" y="52" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Book Antiqua', 'Times New Roman', serif" font-size="13" letter-spacing="3.5" fill="#B08D57">FIG. 1  —  ALLOCATION OF RESEARCH TIME, BY ACTIVITY</text>
+<line x1="60" y1="66" x2="840" y2="66" stroke="#B08D57" stroke-width="0.7" opacity="0.7"/>
+<circle cx="245" cy="270" r="140" fill="none" stroke="#EDE3CC" stroke-width="58"/>
+<g transform="rotate(-90 245 270)" fill="none" stroke-width="58">
+  <circle cx="245" cy="270" r="140" stroke="#6B1E2E" stroke-dasharray="436.8 879.6" stroke-dashoffset="-0.0"/>
+  <circle cx="245" cy="270" r="140" stroke="#B08D57" stroke-dasharray="260.9 879.6" stroke-dashoffset="-439.8"/>
+  <circle cx="245" cy="270" r="140" stroke="#2E2C2A" stroke-dasharray="102.6 879.6" stroke-dashoffset="-703.7"/>
+  <circle cx="245" cy="270" r="140" stroke="#8A5A3C" stroke-dasharray="67.4 879.6" stroke-dashoffset="-809.3"/>
+</g>
+<text x="245" y="276" text-anchor="middle" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Book Antiqua', 'Times New Roman', serif" font-size="44" fill="#6B1E2E">n = 1</text>
+<text x="245" y="304" text-anchor="middle" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Book Antiqua', 'Times New Roman', serif" font-style="italic" font-size="16" fill="#5A5650">self-reported</text>
+<rect x="470" y="106" width="16" height="16" fill="#6B1E2E"/>
+<text x="500" y="123" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Book Antiqua', 'Times New Roman', serif" font-size="30" fill="#6B1E2E">50%</text>
+<text x="575" y="121" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Book Antiqua', 'Times New Roman', serif" font-size="20" fill="#2E2C2A">Deciding what to research</text>
+<text x="500" y="151" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Book Antiqua', 'Times New Roman', serif" font-style="italic" font-size="16.5" fill="#5A5650">Every topic is fascinating until I have to pick one.</text>
+<rect x="470" y="190" width="16" height="16" fill="#B08D57"/>
+<text x="500" y="207" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Book Antiqua', 'Times New Roman', serif" font-size="30" fill="#6B1E2E">30%</text>
+<text x="575" y="205" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Book Antiqua', 'Times New Roman', serif" font-size="20" fill="#2E2C2A">Reading, and re-reading</text>
+<text x="500" y="235" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Book Antiqua', 'Times New Roman', serif" font-style="italic" font-size="16.5" fill="#5A5650">Just one more paper, then I will start.</text>
+<rect x="470" y="274" width="16" height="16" fill="#2E2C2A"/>
+<text x="500" y="291" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Book Antiqua', 'Times New Roman', serif" font-size="30" fill="#6B1E2E">12%</text>
+<text x="575" y="289" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Book Antiqua', 'Times New Roman', serif" font-size="20" fill="#2E2C2A">Actually writing it</text>
+<text x="500" y="319" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Book Antiqua', 'Times New Roman', serif" font-style="italic" font-size="16.5" fill="#5A5650">The part that ends up on the CV.</text>
+<rect x="470" y="358" width="16" height="16" fill="#8A5A3C"/>
+<text x="500" y="375" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Book Antiqua', 'Times New Roman', serif" font-size="30" fill="#6B1E2E">8%</text>
+<text x="575" y="373" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Book Antiqua', 'Times New Roman', serif" font-size="20" fill="#2E2C2A">Coffee</text>
+<text x="500" y="403" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Book Antiqua', 'Times New Roman', serif" font-style="italic" font-size="16.5" fill="#5A5650">Officially 8%. See footnote.</text>
+<g transform="translate(800 376)" fill="none" stroke="#8A5A3C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M-14,-4 H14 V8 A10,10 0 0 1 4,18 H-4 A10,10 0 0 1 -14,8 Z" fill="#EDE3CC"/>
+  <path d="M14,0 A6,6 0 0 1 14,12"/><path d="M-18,22 H18"/>
+  <path d="M-6,-10 c-3,-4 3,-7 0,-11 c-3,-4 3,-7 0,-11" opacity="0.6"><animate attributeName="opacity" values="0;.8;0" dur="2.4s" begin="0.0s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 4;0 -6" dur="2.4s" begin="0.0s" repeatCount="indefinite"/></path>
+  <path d="M0,-10 c-3,-4 3,-7 0,-11 c-3,-4 3,-7 0,-11" opacity="0.6"><animate attributeName="opacity" values="0;.8;0" dur="2.4s" begin="0.6s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 4;0 -6" dur="2.4s" begin="0.6s" repeatCount="indefinite"/></path>
+  <path d="M6,-10 c-3,-4 3,-7 0,-11 c-3,-4 3,-7 0,-11" opacity="0.6"><animate attributeName="opacity" values="0;.8;0" dur="2.4s" begin="1.2s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 4;0 -6" dur="2.4s" begin="1.2s" repeatCount="indefinite"/></path>
+</g>
+<line x1="60" y1="468" x2="840" y2="468" stroke="#B08D57" stroke-width="0.7" opacity="0.7"/>
+<text x="60" y="494" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Book Antiqua', 'Times New Roman', serif" font-style="italic" font-size="14.5" fill="#5A5650">Source: author's own estimates. Sample size: one. Coffee figures are very likely under-reported.</text>
+</svg>

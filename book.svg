@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="900" height="330" viewBox="0 0 900 330" role="img" aria-label="Book: Being Humane: To Live not Survive, by Thanushika Mohanraj. On humane living, ethical development and structural inequality.">
+<title>Book: Being Humane: To Live not Survive, by Thanushika Mohanraj. On humane living, ethical development and structural inequality.</title>
+<rect width="900" height="330" fill="#F7F1E3"/>
+<rect x="100" y="48" width="190" height="255" fill="#2E2C2A" opacity="0.18"/>
+<rect x="276" y="44" width="8" height="249" fill="#EDE3CC" stroke="#B08D57" stroke-width="0.5"/>
+<rect x="90" y="40" width="190" height="255" fill="#6B1E2E"/>
+<rect x="90" y="40" width="14" height="255" fill="#4E1521"/>
+<rect x="114" y="52" width="154" height="231" fill="none" stroke="#CDB07A" stroke-width="0.9"/>
+<g font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Book Antiqua', 'Times New Roman', serif" text-anchor="middle">
+  <text x="191.0" y="132" font-size="25" fill="#F7F1E3">Being</text>
+  <text x="191.0" y="162" font-size="25" fill="#F7F1E3">Humane</text>
+  <line x1="161.0" y1="180" x2="221.0" y2="180" stroke="#CDB07A" stroke-width="0.8"/>
+  <text x="191.0" y="204" font-size="13" font-style="italic" fill="#CDB07A">To Live not Survive</text>
+  <text x="191.0" y="262" font-size="8.5" letter-spacing="1.2" fill="#CDB07A">THANUSHIKA MOHANRAJ</text>
+</g>
+<g font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Book Antiqua', 'Times New Roman', serif">
+  <text x="350" y="92" font-size="13" letter-spacing="4" fill="#B08D57">BOOK</text>
+  <line x1="410" y1="87" x2="830" y2="87" stroke="#B08D57" stroke-width="0.7" opacity="0.7"/>
+  <text x="350" y="146" font-size="40" fill="#6B1E2E">Being Humane</text>
+  <text x="350" y="182" font-size="23" font-style="italic" fill="#6B1E2E">To Live not Survive</text>
+  <text x="350" y="232" font-size="19" fill="#5A5650">A book examining humane living, ethical</text>
+  <text x="350" y="260" font-size="19" fill="#5A5650">development and structural inequality.</text>
+</g>
+</svg>

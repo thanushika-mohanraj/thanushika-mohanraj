@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="900" height="40" viewBox="0 0 900 40" role="img" aria-label="Section divider">
+<title>Section divider</title>
+<style>.p{animation:p 4s ease-in-out infinite;transform-origin:450px 20px;}@keyframes p{50%{opacity:.45;}}</style>
+<line x1="250" y1="20" x2="430" y2="20" stroke="#B08D57" stroke-width="1"/>
+<line x1="470" y1="20" x2="650" y2="20" stroke="#B08D57" stroke-width="1"/>
+<circle cx="422" cy="20" r="2" fill="#B08D57"/><circle cx="478" cy="20" r="2" fill="#B08D57"/>
+<g class="p"><path d="M450,13 L457,20 L450,27 L443,20 Z" fill="#B08D57"/></g>
+</svg>
