@@ -7,22 +7,22 @@
 -->
 
 <p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Thanushika Mohanraj — a research portfolio in development studies, public policy, and climate and governance">
+  <img src="banner.svg" width="100%" alt="Thanushika Mohanraj — a research portfolio in development studies, public policy, and climate and governance">
 </p>
 
 <p align="center">
-  <img src="assets/typing.svg" width="100%" alt="Hello, I'm Thanushika. I study how institutions shape societies. MA Development Studies at TISS Mumbai, on exchange at PSIA, Sciences Po, 2026-27. Author of Being Humane: To Live not Survive.">
+  <img src="typing.svg" width="100%" alt="Hello, I'm Thanushika. I study how institutions shape societies. MA Development Studies at TISS Mumbai, on exchange at PSIA, Sciences Po, 2026-27. Author of Being Humane: To Live not Survive.">
 </p>
 
 <p align="center">
-  <img src="assets/glance.svg" width="100%" alt="At a glance: 1 book authored; 3 research and policy outputs; 3 institutions, from city to ministry; 4 working languages">
+  <img src="glance.svg" width="100%" alt="At a glance: 1 book authored; 3 research and policy outputs; 3 institutions, from city to ministry; 4 working languages">
 </p>
 
 <br>
 
-<p align="center"><img src="assets/headers/01-about.svg" width="100%" alt="I. About"></p>
+<p align="center"><img src="01-about.svg" width="100%" alt="I. About"></p>
 
-<img src="assets/photos/portrait-framed.svg" align="right" width="40%" alt="Portrait of Thanushika Mohanraj">
+<img src="portrait-framed.svg" align="right" width="40%" alt="Portrait of Thanushika Mohanraj">
 
 <!-- EDIT: your About Me text. Read it aloud and change anything that doesn't sound like you. -->
 
@@ -38,12 +38,12 @@ This GitHub is where I'll keep the working side of all this (Stata and R code, d
 
 <br clear="right">
 
-<p align="center"><img src="assets/divider.svg" width="60%" alt=""></p>
+<p align="center"><img src="divider.svg" width="60%" alt=""></p>
 
-<p align="center"><img src="assets/headers/02-journey.svg" width="100%" alt="II. The Journey So Far"></p>
+<p align="center"><img src="02-journey.svg" width="100%" alt="II. The Journey So Far"></p>
 
 <p align="center">
-  <img src="assets/timeline.svg" width="100%" alt="2022–2025: BA (Hons.) Political Science, minor in Economics, Lady Shri Ram College. May–Jun 2025: Research and Policy Intern, Chennai Municipal Corporation. 2025–present: MA Development Studies, TISS Mumbai. Apr–Jun 2026: Policy Advisor Intern, CSR Division, Bajaj Auto Foundation. Jul 2026: Research and Data Analyst Intern, Ministry of External Affairs. 2026–2027: Exchange programme, PSIA, Sciences Po (now).">
+  <img src="timeline.svg" width="100%" alt="2022–2025: BA (Hons.) Political Science, minor in Economics, Lady Shri Ram College. May–Jun 2025: Research and Policy Intern, Chennai Municipal Corporation. 2025–present: MA Development Studies, TISS Mumbai. Apr–Jun 2026: Policy Advisor Intern, CSR Division, Bajaj Auto Foundation. Jul 2026: Research and Data Analyst Intern, Ministry of External Affairs. 2026–2027: Exchange programme, PSIA, Sciences Po (now).">
 </p>
 
 <details>
@@ -58,19 +58,19 @@ This GitHub is where I'll keep the working side of all this (Stata and R code, d
 
 </details>
 
-<p align="center"><img src="assets/divider.svg" width="60%" alt=""></p>
+<p align="center"><img src="divider.svg" width="60%" alt=""></p>
 
-<p align="center"><img src="assets/headers/03-interests.svg" width="100%" alt="III. Research Interests"></p>
+<p align="center"><img src="03-interests.svg" width="100%" alt="III. Research Interests"></p>
 
 <p align="center">
-  <img src="assets/interests.svg" width="100%" alt="Research interests: Climate Change and Sustainability Policy; Public Policy and Governance; Development Economics; Monitoring, Evaluation and Impact Assessment; Energy Transition and Electrification; International Relations and Geopolitics; Inclusive Development.">
+  <img src="interests.svg" width="100%" alt="Research interests: Climate Change and Sustainability Policy; Public Policy and Governance; Development Economics; Monitoring, Evaluation and Impact Assessment; Energy Transition and Electrification; International Relations and Geopolitics; Inclusive Development.">
 </p>
 
-<p align="center"><img src="assets/divider.svg" width="60%" alt=""></p>
+<p align="center"><img src="divider.svg" width="60%" alt=""></p>
 
-<p align="center"><img src="assets/headers/04-experience.svg" width="100%" alt="IV. Experience"></p>
+<p align="center"><img src="04-experience.svg" width="100%" alt="IV. Experience"></p>
 
-<img src="assets/photos/mea-framed.svg" align="left" width="42%" alt="Thanushika Mohanraj at the Ministry of External Affairs, Government of India">
+<img src="mea-framed.svg" align="left" width="42%" alt="Thanushika Mohanraj at the Ministry of External Affairs, Government of India">
 
 ### Ministry of External Affairs
 **Government of India** · *Research & Data Analyst Intern* · Jul 2026<br>
@@ -100,13 +100,13 @@ Later in the internship I extended the work to Digital Public Infrastructure and
 - Carried out surveys, structured interviews and stakeholder consultations, and checked the findings through quantitative analysis in Excel and Stata
 - Wrote research-based policy recommendations, presented to senior municipal officials
 
-<p align="center"><img src="assets/divider.svg" width="60%" alt=""></p>
+<p align="center"><img src="divider.svg" width="60%" alt=""></p>
 
-<p align="center"><img src="assets/headers/05-projects.svg" width="100%" alt="V. Publications & Research"></p>
+<p align="center"><img src="05-projects.svg" width="100%" alt="V. Publications & Research"></p>
 
 <!-- EDIT: the book link below is the one from your CV. Replace it with the direct publisher or store link if you have one. -->
 <p align="center">
-  <a href="https://www.google.com/goto?url=CAESfAHrOzAVUArQipGLsqf-SU5b6fuMyn4VR_sv_oX5NUq0hDRHzxAQfozJRTfn-8AkrL72IXyQX7A5l1TTr29iZKPew6S1PRil6072EGiOdWRPnG49N49Q-7c6WBBRFePKEJnFL7VA3jo3rmyTi5SZeILGxElammQdBVZ5K8s"><img src="assets/book.svg" width="100%" alt="Book: Being Humane: To Live not Survive, by Thanushika Mohanraj. On humane living, ethical development and structural inequality."></a>
+  <a href="https://www.google.com/goto?url=CAESfAHrOzAVUArQipGLsqf-SU5b6fuMyn4VR_sv_oX5NUq0hDRHzxAQfozJRTfn-8AkrL72IXyQX7A5l1TTr29iZKPew6S1PRil6072EGiOdWRPnG49N49Q-7c6WBBRFePKEJnFL7VA3jo3rmyTi5SZeILGxElammQdBVZ5K8s"><img src="book.svg" width="100%" alt="Book: Being Humane: To Live not Survive, by Thanushika Mohanraj. On humane living, ethical development and structural inequality."></a>
 </p>
 
 #### Guiding Modern Bioethics: Insights from Ancient Political Thinkers
@@ -134,18 +134,18 @@ One or two sentences: the question, how you approached it, and what you found.<b
 [Read it](https://link-to-your-work)
 -->
 
-<p align="center"><img src="assets/divider.svg" width="60%" alt=""></p>
+<p align="center"><img src="divider.svg" width="60%" alt=""></p>
 
-<p align="center"><img src="assets/headers/06-method.svg" width="100%" alt="VI. Methodology, Honestly"></p>
+<p align="center"><img src="06-method.svg" width="100%" alt="VI. Methodology, Honestly"></p>
 
 <!-- EDIT: the percentages live in source/build.py (function time_chart). Change them there and re-run, or ask for a new version. -->
 <p align="center">
-  <img src="assets/time-chart.svg" width="100%" alt="A tongue-in-cheek chart of how my research time is spent: 50% deciding what to research, 30% reading and re-reading, 12% actually writing it, 8% coffee. Sample size: one.">
+  <img src="time-chart.svg" width="100%" alt="A tongue-in-cheek chart of how my research time is spent: 50% deciding what to research, 30% reading and re-reading, 12% actually writing it, 8% coffee. Sample size: one.">
 </p>
 
-<p align="center"><img src="assets/divider.svg" width="60%" alt=""></p>
+<p align="center"><img src="divider.svg" width="60%" alt=""></p>
 
-<p align="center"><img src="assets/headers/07-skills.svg" width="100%" alt="VII. Skills, Languages & Tools"></p>
+<p align="center"><img src="07-skills.svg" width="100%" alt="VII. Skills, Languages & Tools"></p>
 
 <!-- EDIT: add items to the right-hand cells, separated by  &nbsp;·&nbsp;  -->
 <div align="center">
@@ -184,9 +184,9 @@ One or two sentences: the question, how you approached it, and what you found.<b
 </p>
 -->
 
-<p align="center"><img src="assets/divider.svg" width="60%" alt=""></p>
+<p align="center"><img src="divider.svg" width="60%" alt=""></p>
 
-<p align="center"><img src="assets/headers/08-contact.svg" width="100%" alt="VIII. Correspondence"></p>
+<p align="center"><img src="08-contact.svg" width="100%" alt="VIII. Correspondence"></p>
 
 <p align="center">
   <em>Based in Paris for 2026–27. I'm always glad to hear from people working on development,<br>
@@ -194,13 +194,13 @@ One or two sentences: the question, how you approached it, and what you found.<b
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/thanushika-mohanraj-740499201/"><img src="assets/buttons/linkedin.svg" height="56" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/thanushika-mohanraj-740499201/"><img src="linkedin.svg" height="56" alt="LinkedIn"></a>
   &nbsp;&nbsp;
-  <a href="mailto:thanushika.mohanraj@sciencespo.fr"><img src="assets/buttons/email.svg" height="56" alt="Email"></a>
+  <a href="mailto:thanushika.mohanraj@sciencespo.fr"><img src="email.svg" height="56" alt="Email"></a>
 </p>
 
 <br>
 
 <p align="center">
-  <img src="assets/footer.svg" width="100%" alt="Thank you for reading.">
+  <img src="footer.svg" width="100%" alt="Thank you for reading.">
 </p>
